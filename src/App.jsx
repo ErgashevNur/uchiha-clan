@@ -2,8 +2,8 @@
 import "./App.css";
 import { useState } from "react";
 // components
-import Navbar from "./components/navbar/Navbar";
-import Footer from "./components/footer/Footer";
+import Navbar from "./components/Navbar/Navbar";
+import Footer from "./components/Footer/Footer";
 import UserList from "./components/userList/UserList";
 // import NewUserForm from "./components/newuser/NewUserForm";
 
